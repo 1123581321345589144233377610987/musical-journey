@@ -117,7 +117,7 @@ while x!=-42:
                             if next in NEXT:
                                 C+=1
                             else:
-                                C=01
+                                C=0
                                 x=5
         except:
             x=42
