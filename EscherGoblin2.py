@@ -17,7 +17,7 @@ while x!=-42:
             r = int(input())
             options = (1,2,3,4,5)
             right = ("right", "r", "R", "Right", "RIGHT", "Riiiiight", "correct")
-            left = ("left", "l", "L", "Left", "LEFT")
+            left = ("left", "l", "L", "Left", "LEFT","sinister")
             if r in options:
                 x=1
                 if r==1:
